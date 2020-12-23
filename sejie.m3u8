@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:4
+#EXTINF:3.040000,
+https://yunpan-cdn.iqiyipic.com/file/sns_comment_v2/43PuQwDqi9u2E_m9-4D5anqHwsf1pI2fSIgLqdHlx3CmLGLpvQsbBSHatmw00c4T4q_3ay2BXe5fqx85sSA2cw.png
+#EXT-X-ENDLIST
